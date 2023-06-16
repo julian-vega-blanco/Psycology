@@ -85,20 +85,13 @@ if (!empty($routesArray[3])){
 }  
 ?>
 
-   
-
-
-    <!-- /.content -->
   </div>
-  <!-- /.content-wrapper -->
+
 
   <?php include "views/modules/footer.php";?>
 
- 
 </div>
-<!-- ./wrapper -->
 
-<!-- jQuery -->
 
 </body>
 </html>
